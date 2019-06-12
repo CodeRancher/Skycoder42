@@ -1,0 +1,15 @@
+[submodule "QtService"]
+	path = QtService
+	url = https://github.com/CodeRancher/QtService.git
+[submodule "QPluginFactory"]
+	path = QPluginFactory
+	url = https://github.com/Skycoder42/QPluginFactory.git
+[submodule "QExceptionBase"]
+	path = QExceptionBase
+	url = https://github.com/Skycoder42/QExceptionBase.git
+[submodule "QCtrlSignals"]
+	path = QCtrlSignals
+	url = https://github.com/Skycoder42/QCtrlSignals.git
+[submodule "QConsole"]
+	path = QConsole
+	url = https://github.com/Skycoder42/QConsole.git
